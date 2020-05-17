@@ -6,3 +6,4 @@ git modify by master for skip the commit
 git merge without fast forward model
 this is a develop branch;
 i has completed the work and can commit
+fixed the bug_102
