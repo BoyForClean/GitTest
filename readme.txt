@@ -7,3 +7,4 @@ git merge without fast forward model
 this is a develop branch;
 i has completed the work and can commit
 fixed the bug_102
+this is the branch of dev
